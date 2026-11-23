@@ -1,6 +1,6 @@
 # Celso Farias
 
-Engenheiro de Software Mobile: iOS (Swift, SwiftUI) e Android (Kotlin, Jetpack Compose), com foco em fintech e pagamentos, e Kotlin Multiplatform nos meus produtos. PcD (deficiência física). Alto Araguaia, MT · aberto a remoto, híbrido ou mudança.
+Engenheiro de Software Mobile: iOS (Swift, SwiftUI) e Android (Kotlin, Jetpack Compose), com foco em fintech e pagamentos, e Kotlin Multiplatform nos meus produtos. PcD (deficiência física). Brasil · aberto a remoto, híbrido ou mudança.
 
 ## Experiência
 - **[Blu (BluIP)](https://github.com/fariascelso/blu-fintech-mobile):** mobile em fintech de pagamentos B2B (2023–2026). 3º maior contribuidor do iOS e 4º entre 68 no Android.
