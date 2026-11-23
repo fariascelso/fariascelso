@@ -4,7 +4,7 @@ Engenheiro de Software Mobile: iOS (Swift, SwiftUI) e Android (Kotlin, Jetpack C
 
 ## Experiência
 - **[Blu (BluIP)](https://github.com/fariascelso/blu-fintech-mobile):** mobile em fintech de pagamentos B2B (2023–2026). 3º maior contribuidor do iOS e 4º entre 68 no Android.
-- **[Murb](https://github.com/fariascelso/murb-mobile):** freelancer mobile em app de música, Android, iOS e KMP (2022–2026).
+- **[Murb](https://github.com/fariascelso/murb-mobile):** desenvolvedor mobile em app de música, Android, iOS e KMP (2022–2026).
 
 ## Produtos que criei (Kotlin Multiplatform, com IA)
 - **[Stop Trucks](https://github.com/fariascelso/stop-trucks-higienizador):** gestão de higienizador de caminhões-tanque, web em produção ([site](https://stoptruckshigienizador.com)).
