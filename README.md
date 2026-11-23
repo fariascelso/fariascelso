@@ -17,7 +17,7 @@ Engenheiro de Software Mobile: iOS (Swift, SwiftUI) e Android (Kotlin, Jetpack C
 - Design System Ocean: [iOS](https://github.com/ocean-ds/ocean-ios) e [Android](https://github.com/ocean-ds/ocean-android).
 
 ## Stack
-Swift · SwiftUI · UIKit · Kotlin · Jetpack Compose · Kotlin Multiplatform · Compose Multiplatform · Clean Architecture · MVVM · MVI · Firebase · Testes automatizados · Claude Code
+Swift · SwiftUI · UIKit · Kotlin · Jetpack Compose · Kotlin Multiplatform · Compose Multiplatform · Clean Architecture · MVVM · MVI · Firebase · Testes automatizados · IA com especificação (SDD e PRD)
 
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/celso-farias) · c__farias@outlook.com
